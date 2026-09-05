@@ -24,5 +24,4 @@ The original assignment specifications are included in this repository as PDF fi
 ## Language
 - C
 
-## Author
-Aly Moataz
+
